@@ -43,8 +43,6 @@ An ESP32-based wearable monitoring prototype that tracks heart rate, SpO2, and b
    - Twilio Account SID, Auth Token, and phone numbers
 3. Upload the sketch to the ESP32 and open the Serial Monitor at 115200 baud.
 
-> **Note:** Never commit real credentials to a public repository.
-
 ## Tech stack
 ESP32 · Arduino IDE · C/C++ · Firebase Realtime Database · Twilio SMS API
 
